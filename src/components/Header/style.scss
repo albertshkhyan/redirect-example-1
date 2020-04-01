@@ -6,5 +6,12 @@
         color : red;
       }
     }
+    li {
+      a {
+        &.active {
+          color: red;
+        }
+      }
+    }
   }
 }

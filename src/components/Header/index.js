@@ -25,7 +25,7 @@ const Header = ({
             <nav>
                 <ul>
                     <li>
-                        <NavLink  to="/">
+                        <NavLink exact to="/">
                             Home
                         </NavLink>
                     </li>
